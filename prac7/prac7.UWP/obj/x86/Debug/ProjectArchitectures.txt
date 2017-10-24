@@ -1,0 +1,2 @@
+C:\Users\MIREYA\Documents\Visual Studio 2017\Projects\prac7\prac7\prac7.UWP\prac7.UWP.csproj;x86
+C:\Users\MIREYA\Documents\Visual Studio 2017\Projects\prac7\prac7\prac7\prac7.csproj;neutral
